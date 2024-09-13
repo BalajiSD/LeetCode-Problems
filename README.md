@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Greedy
@@ -44,4 +45,9 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
