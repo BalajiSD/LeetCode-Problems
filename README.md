@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Greedy
