@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -42,4 +43,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
