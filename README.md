@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0258-add-digits) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
