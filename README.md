@@ -29,6 +29,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0856-consecutive-numbers-sum](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0856-consecutive-numbers-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
