@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0258-add-digits) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
@@ -57,8 +59,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Enumeration
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0856-consecutive-numbers-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
