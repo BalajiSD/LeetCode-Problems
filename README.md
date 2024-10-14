@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-binary-search](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/BalajiSD/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BalajiSD/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Enumeration
 |  |
